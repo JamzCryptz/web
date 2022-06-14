@@ -757,6 +757,14 @@ hr {
   .contact-list {
     margin-left: 8px;
   }
+    
+     .contact-text {
+    font-size: 1rem;
+  }
+    
+  .section-p {
+    font-size: 1.1rem;
+  }
   
   .name, .email, textarea {
     width: 280px;
