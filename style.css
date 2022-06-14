@@ -278,7 +278,7 @@ p {
 }
 
 .feature-box {
-  transform: translateX(400%);
+  transform: translateX(40%);
   /* transition: transform 0.8s ease; */
 } 
 
