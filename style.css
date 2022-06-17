@@ -139,13 +139,13 @@ p {
   text-align: center;
 }
 .head-section {
-    background: rgb(40, 40, 40) url(https://zuriksblog.com/wp-content/uploads/2022/05/WhatsApp-Image-2022-05-12-at-11.17.35-PM.jpeg) fixed;
+    background: rgb(20, 20, 20) url(https://zuriksblog.com/wp-content/uploads/2022/05/WhatsApp-Image-2022-05-12-at-11.17.35-PM.jpeg) fixed;
     background-size: cover;
     background-blend-mode: overlay;
     padding: 16% 8%; 
 }
 #testimonials {
-  background: rgb(40, 40, 40) url('section bg img.jpg') 50% 0 repeat-y fixed;
+  background: rgb(20, 20, 20) url('section bg img.jpg') 50% 0 repeat-y fixed;
   background-size: cover;
   background-blend-mode: overlay;
   padding: 6% 8%;
